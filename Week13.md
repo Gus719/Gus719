@@ -2,11 +2,21 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(   https://go.gliffy.com/go/html5/13651676 )
+( file:///C:/Users/Spencer%20Wynne/AppData/Local/Temp/Temp2_README%20(1).zip/README/Images/ELK_Server.pdf  )
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _yml/config____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _._
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/ansible.cfg
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/docker.yml
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/filebeat-config.yml
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/filebeat-playbook.yml
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/install-elk.yml
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/metricbeat-7.6.6-amd64.deb
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/mericbeat-config.yml
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/metricbeat-playbook.yml
+  /c/Users/Spencer Wynne/project1/Gus719/ansible/pentest.yml
+  
 
 This document contains the following details:
 - Description of the Topologu
